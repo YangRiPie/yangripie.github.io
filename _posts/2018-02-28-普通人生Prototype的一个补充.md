@@ -2,7 +2,7 @@
 layout: post
 title: 关于普通人生Prototype的一个补充
 date: 2018-02-28 19:43:47
-tags: [undefined]
+tags: [TYPE-MOON][Fate/Grand Order]
 
 ---
 梅林读完了信，纸掉到地上。
