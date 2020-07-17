@@ -7,8 +7,8 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: LOFFER
-description: 一个可以fork的博客
+name: YangRiPie
+description: yangripie's blog
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -16,7 +16,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: 
 
 
 #
@@ -42,7 +42,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 20
 
 # 文章简介的区分标记
 excerpt_separator: <!-- more -->
@@ -52,7 +52,7 @@ footer-links:
   weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
+  email: jinjinmingnoa@yahoo.com 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
   github: FromEndWorld/loffer #https://github.com/<>
@@ -66,7 +66,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2020 洋梨派YangRiPie
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
@@ -77,8 +77,8 @@ disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: ed714160e1b2212ae11b
+  clientSecret: fe12998640b0f7c52679da2fbd45d07c22dfec00
   repo: 
   owner: 
 
