@@ -3,7 +3,6 @@ layout: post
 title: 普通人生Prototype
 date: 2018-02-25 13:19:46
 tags: [TYPE-MOON,Fate/Grand Order]
-
 ---
 
 *梅林罗曼
