@@ -24,7 +24,7 @@ permalink: /about/
 
 通过赞赏，您可以支持我更好地产出！
 
-<img src="C:\Users\lenovo\Desktop\2.jpg" alt="2" style="zoom: 25%;" />
+<img src="https://i.loli.net/2020/07/18/jLuYPCNzJrcB5RI.jpg" alt="2.jpg" style="zoom:25%;" />
 
 --
 
