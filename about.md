@@ -28,7 +28,7 @@ permalink: /about/
 
 --
 
-**友情链接**
+**也欢迎去看看我朋友们的个人网站**
 
 [一把甘蔗渣](https://kamadhatu.github.io/sanjingjiuhuang/)
 
