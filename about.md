@@ -19,3 +19,16 @@ permalink: /about/
 ​                   型月同人和布袋戏同人
 
 我在布袋戏圈的马甲：江山抄手
+
+--
+
+通过赞赏，您可以支持我更好地产出！
+
+<img src="C:\Users\lenovo\Desktop\2.jpg" alt="2" style="zoom: 25%;" />
+
+--
+
+**友情链接**
+
+[一把甘蔗渣](https://kamadhatu.github.io/sanjingjiuhuang/)
+
