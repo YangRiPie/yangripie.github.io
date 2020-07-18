@@ -32,3 +32,4 @@ permalink: /about/
 
 [一把甘蔗渣](https://kamadhatu.github.io/sanjingjiuhuang/)
 
+[核动力破冰船](http://nattraven.net/)
