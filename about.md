@@ -12,13 +12,7 @@ permalink: /about/
 
 --
 
-近期项目：闪恩同人游戏（类型：剧情向 横向卷轴式 平台解谜 游戏）
-
-​                   28章 塞尔达传说旷野之息Alter版 同人小说
-
-​                   型月同人和布袋戏同人
-
-我在布袋戏圈的马甲：江山抄手
+我在布袋戏圈的马甲：魔障息生
 
 --
 
@@ -30,6 +24,6 @@ permalink: /about/
 
 **也欢迎去看看我朋友们的个人网站**
 
-[一把甘蔗渣](https://kamadhatu.github.io/sanjingjiuhuang/)
+[一把甘蔗渣](https://sanjingjiuhuang.net/)
 
 [核动力破冰船](http://nattraven.net/)
