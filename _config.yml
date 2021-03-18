@@ -2,10 +2,10 @@
 title: YangRiPie #Your awesome title
 email: #youremail@domain.com
 description: > # this means to ignore newlines until "baseurl"
- 发布小说 日记 绘画 游戏
+ 
 
 baseurl: # the subpath of the site
-url: http://starry99.github.io/catbook # the base hostname & protocol for your site
+url: http://yangripie.github.io/ # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone:
@@ -19,7 +19,7 @@ user:
   name: YangRiPie
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 发布小说 日记 绘画 游戏
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
