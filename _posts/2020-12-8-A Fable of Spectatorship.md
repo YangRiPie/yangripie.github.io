@@ -1,8 +1,7 @@
 ---
-layout: post
 title: A Fable of Spectatorship
-date: 2020-12-08 20:15:36
-tags: [日记+]
+categories: [fanfic novels]
+comments: true
 ---
 是学校作业。我写了一个景观社会中的常见现象。
 
