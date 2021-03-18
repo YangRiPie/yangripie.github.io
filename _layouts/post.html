@@ -1,51 +1,36 @@
 ---
-layout: default
+layout: page
 ---
 
-<article class="posts">
-  <h1>{{ page.title }}</h1>
-
-  <div clsss="meta">
-    <span class="author">
-      {{ page.author }}
-    </span>
-
-    <span class="date">
-      {{ page.date | date: "%Y-%m-%d" }}
-    </span>
-
-    <ul class="tag">
-      {% for tag in page.tags %}
-      <li>
-        <a href="{{ site.url }}{{ site.baseurl }}/tags#{{ tag }}">
-          {{ tag }}
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
+<div class="post">
+  <div>
+    {% if page.title %}
+    <p class="post_title">{{ page.title }}</p>
+    {% endif %}
   </div>
-
-  <div class="entry">
+  <div class="post_data">
+    {% if page.date %}
+    <span class="post_date">{{ page.date | date: "%b %-d, %Y" }}</span>
+    {% endif %}
+    {% if page.categories %}
+    <span class="post_categories">
+      &raquo; {% for cat_name in page.categories %}
+      <a href="{{ site.baseurl }}/categories/{{ cat_name }}">{{ cat_name }}</a>{% if forloop.last == false %},
+      {% endif %}{% endfor %}
+    </span>
+    {% endif %}
+  </div>
+  <div class="post_content">
     {{ content }}
   </div>
 
-  {% include disqus.html %}
-  {% include gitalk.html %}
-</article>
 
-<div class="pagination">
-  {% if page.previous.url %}
-    <span class="prev" >
-      <a href="{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}">
-        ← 上一篇
-      </a>
-    </span>
+  {% if page.comment %}
+  <div class="post_comment">
+
+    {% include disqus.html username = site.disqus.shortname %}
+
+  </div>
   {% endif %}
-  {% if page.next.url %}
-    <span class="next" >
-      <a href="{{ site.url }}{{ site.baseurl }}{{ page.next.url }}">
-        下一篇 →
-      </a>
-    </span>
-  {% endif %}
+
 </div>
