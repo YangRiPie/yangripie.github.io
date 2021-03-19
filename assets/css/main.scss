@@ -37,26 +37,26 @@
 }
 
 @mixin darkMode {
-    --bg_color: #1C1C1E;
-    --header_bg: #24292E;
-    --content_bg: #2F3437;
-    --archive_font: #CACCCE;
-    --archive_title: #46a891;
-    --archive_title_hover: #87CDBD;
-    --name_font: #FFAA00;
-    --job_font: #CACCCE;
-    --nav_font: #8d7edc;
-    --nav_font_hover: #D4CEF2;
+    --bg_color: #0c144f;
+    --header_bg: #083766;
+    --content_bg: #070369;
+    --archive_font: #e8f4ff;
+    --archive_title: #4649a8;
+    --archive_title_hover: #8c87cd;
+    --name_font: #0008ff;
+    --job_font: #dfe7f0;
+    --nav_font: #7e97dc;
+    --nav_font_hover: #cedbf2;
     --shadow_color: rgba(0, 0, 0, 1);
-    --post_title: #46a891;
-    --post_date: #e9ead7;
-    --post_text: #CACCCE;
+    --post_title: #4649a8;
+    --post_date: #d7d8ea;
+    --post_text: #d3e1f0;
     --post_h3: #fff;
     --post_link: #8d7edc;
     --post_link_hover: #D4CEF2;
-    --inlinecode_text: #FFAA00;
-    --blockquote: #CACCCE;
-    --footer_font_a: #d1d1d1;
+    --inlinecode_text: #001aff;
+    --blockquote: #dcebfa;
+    --footer_font_a: #0008ff;
     --border_radius: 1px;
 }
 
