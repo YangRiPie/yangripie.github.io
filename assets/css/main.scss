@@ -12,8 +12,8 @@
 
 @mixin lightMode {
     --bg_color: #a5b9e6;
-    --header_bg: #fafafa;
-    --content_bg: #dee3ff;
+    --header_bg: #dee3ff;
+    --content_bg: #fafafa;
     --archive_font: #000;
     --archive_title: #4684a8;
     --archive_title_hover: #87a2cd;
@@ -30,7 +30,7 @@
     --post_link_hover: #879bcd;
     --inlinecode_text: #5d00ff;
     --blockquote: #333;
-    --footer_font: #858585;
+    --footer_font: #000080;
     --footer_font_a: #000;
     --border_radius: 15px;
 
